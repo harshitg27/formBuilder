@@ -19,6 +19,12 @@ FormBot is a **Fullstack MERN** application that enables users to create and sha
 
 ## 🔗 Live Demo
 [FormBot Deployment](https://harshit-gupta-form-builder.netlify.app/)
+```
+Demo User
+Email - demo@gmail.com
+Password - 12345
+```
+
 
 ## 📂 Project Structure
 ```
